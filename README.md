@@ -1,9 +1,3 @@
-<div class="text-mono text-small mb-3">
-        <a href="/zuhairabs/zuhairabs" class="no-underline Link--primary">zuhairabs</a><span
-                class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span
-                class="color-fg-muted">.md</span>
-</div>
-</div>
 <h1 align="center">Hi 👋, I'm Kaif Sayyed</h1>
 <h3 align="center">A passionate Content developer and Marketer</h3>
 <img align="right" alt="Coding" width="400"
