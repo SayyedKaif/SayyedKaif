@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML/CSS SEO/SEM**
 
-- ⚡ Fun fact "**I started late but became passionate about programming**"
+- ⚡ Fun fact "**I started late but became passionate about Software Developement**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
