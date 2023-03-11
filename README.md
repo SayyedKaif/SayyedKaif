@@ -13,7 +13,7 @@
 
 - 🌱 Learning **Java Script and Figma**
 
-- 💬 Ask me about **HTML/CSS SEO/SEM**
+- 💬 Diving deep into **HTML/CSS SEO/SEM**
 
 - ⚡ Fun fact "**I started late but became passionate about Software Developement**"
 
