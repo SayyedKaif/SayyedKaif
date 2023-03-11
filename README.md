@@ -48,5 +48,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedkaif&" alt="sayyedkaif" /></p>
 
 <h2 id="feedback">Feedback</h2>
-<pre><code><span class="hljs-keyword">If</span> you have any feedback, please reach <span class="hljs-keyword">out</span> to me <span class="hljs-keyword">at</span> sayedkaif9324@gmail.com
+<pre><code><span class="hljs-keyword">If</span> you have any feedback or want to connect, reach <span class="hljs-keyword">out</span> to me <span class="hljs-keyword">at</span> sayedkaif9324@gmail.com
     </code></pre>
