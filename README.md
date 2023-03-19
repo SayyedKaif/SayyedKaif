@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyedkaif&label=Profile%20views&color=0e75b6&style=flat"
                 alt="sayyedkaif" /> </p>
 
-- 😀 Self learned programmer
+- 😀 Self learned coder
 
 - 🔭 I’m currently working on **Java Script Projects**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML/CSS SEO/SEM**
 
-- ⚡ Fun fact "**I started late but became passionate about programming**"
+- ⚡ Fun fact "**I started late but became passionate about Digital Innovation**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
