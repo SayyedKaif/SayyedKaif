@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyedkaif&label=Profile%20views&color=0e75b6&style=flat"
                 alt="sayyedkaif" /> </p>
 
-- 😀 Self learned coder
+- 😀 Self taught coder
 
 - 🔭 I’m currently working on **Java Script Projects**
 
